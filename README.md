@@ -7,7 +7,13 @@ The App will provide users with the possibility give access and then access thei
 <br>
 This Communication App has been built as a small exercise for Achievement 5 in [Career Foundry's Full-Stack Web Development Program](https://careerfoundry.com/en/courses/become-a-web-developer/). It was the preparation before adding more or less the same features to the [Chat App](https://github.com/EllyPirelly/cf-chat-app).
 
-TODO: screenshots
+
+### Access Media Library
+![Screenshot access photos](/assets/screenshots/screenshot-01-access-photos-small.png)
+### Take a photo
+![Screenshot take photo](/assets/screenshots/screenshot-02-take-photo-small.png)
+### Access geo location
+![Screenshot geo location](/assets/screenshots/screenshot-03-geo-location-small.png)
 
 ### Technical requirements
 The Shoppinglist App
